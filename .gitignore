@@ -1,0 +1,6 @@
+*.pdf
+*.data
+*.png
+*.mp4
+.vscode/settings.json
+spline/
